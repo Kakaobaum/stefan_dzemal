@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('mhmmmmm Cookies 🍪')
+st.title('fin')
 
 st.write('Hello world!')
