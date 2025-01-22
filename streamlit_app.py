@@ -2,4 +2,4 @@ import streamlit as st
 
 st.title('fin')
 
-st.write('Hello world!')
+st.write('Thank you very much for your attention!')
